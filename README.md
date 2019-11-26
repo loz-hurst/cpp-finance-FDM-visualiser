@@ -2,6 +2,8 @@
 
 This is an iPython notebook with all the requirements for Binder Hub (mybinder.org) to run it, so students can upload the result of their C++ program written in lab and visualise the output.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/loz-hurst/cpp-finance-FDM-visualiser.git/master?filepath=VisualiseFDM.ipynb)
+
 # Copyright
 
 Copyright 2019 Laurence Alexander Hurst
